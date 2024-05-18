@@ -1,0 +1,16 @@
+h1{
+    text-decoration: underline;
+}
+.beagle {
+    font-weight: bold;
+    font-style: italic;
+}
+.first_section{
+    border: 1px solid #ccc;
+    padding: 5px;
+    box-sizing: border-box;
+}
+align{
+    margin: left 10px;
+}
+
